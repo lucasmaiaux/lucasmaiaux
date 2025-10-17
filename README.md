@@ -1,9 +1,39 @@
 <h1 align="center">👋</h1>
-<h3 align="center">Etudiant au Campus Numerique in the Alps sur Annecy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmaiaux&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmaiaux" /> </p>
+Passionné d’informatique industrielle, j’ai décidé de me reconvertir dans le **développement d’applications** pour mettre mes compétences au service de la création et du développement digital.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+Au fil de ma formation, j’ai découvert une vraie affinité pour le **backend**, j’aime comprendre comment tout fonctionne “sous le capot” et construire des solutions solides et efficaces.
 
+Je suis actuellement en formation de développeur au **Campus Numérique d’Annecy**, et je recherche une **alternance de 12 mois à partir de décembre 2025** pour continuer à apprendre, progresser et contribuer à des projets concrets et stimulants.
+
+---
+
+### 💡 Ce que j’aime faire
+- Créer des applications utiles et bien structurées  
+- Travailler en équipe et apprendre des autres développeurs  
+- Améliorer mes projets petit à petit, jusqu’à ce qu’ils soient vraiment propres et fonctionnels  
+- Résoudre des problèmes
+
+---
+
+### 🧰 Quelques outils que j’utilise
+**Langages :** Java, Python, PHP, JavaScript, HTML, CSS  
+**Frameworks :** Spring Boot, Laravel, React, Vue.js  
+**Bases de données :** MySQL, MongoDB  
+**Outils :** Git, Docker, VSCode/JetBrain
+
+---
+
+### 📌 Quelques projets
+- **CampusCrawler** – application React/JavaSpring/MySQL dockerisée host sur un VPS  
+- **Jeu de l’oie** – version web d’un projet Processing converti en p5.js  
+
+---
+
+### 📫 Me contacter
+- ✉️ lucas.maiaux@gmail.com  
+- 💼 www.linkedin.com/in/lucasmaiaux    
+
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmaiaux&show_icons=true&locale=en" alt="lucasmaiaux" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmaiaux&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmaiaux" /> </p>
