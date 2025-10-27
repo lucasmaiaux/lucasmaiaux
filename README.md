@@ -2,7 +2,7 @@
 
 Passionné d’informatique industrielle, j’ai décidé de me reconvertir dans le **développement d’applications** pour mettre mes compétences au service de la création et du développement digital.
 
-Au fil de ma formation, j’ai découvert une vraie affinité pour le **backend**, j’aime comprendre comment tout fonctionne dans les coulisses et construire des solutions solides et efficaces.
+Au fil de ma formation, je me suis rendu compte que j'avais des affinités avec le backend, j’aime comprendre comment tout fonctionne dans les coulisses et construire des solutions solides et efficaces, un peu dans la continuité de ce que je faisais avant.
 
 Je suis actuellement en formation de développeur au **Campus Numérique d’Annecy**, et je recherche une **alternance de 12 mois à partir de décembre 2025** pour continuer à apprendre, progresser et contribuer à des projets concrets et stimulants.
 
@@ -18,7 +18,7 @@ Je suis actuellement en formation de développeur au **Campus Numérique d’Ann
 
 ### 🧰 Quelques outils que j’utilise
 **Langages :** Java, Python, PHP, JavaScript, HTML, CSS  
-**Frameworks :** Spring Boot, Laravel, React, Vue.js  
+**Frameworks :** Spring Boot, FastAPI, Laravel, React, Vue.js  
 **Bases de données :** MySQL, MongoDB  
 **Outils :** Git, Docker, VSCode/JetBrain
 
