@@ -4,7 +4,7 @@ Passionné d’informatique industrielle, j’ai décidé de me reconvertir dans
 
 Au fil de ma formation, je me suis rendu compte que j'avais des affinités avec le backend, j’aime comprendre comment tout fonctionne dans les coulisses et construire des solutions solides et efficaces, un peu dans la continuité de ce que je faisais avant.
 
-Je suis actuellement en formation de développeur au **Campus Numérique d’Annecy**, et je recherche une **alternance de 12 mois à partir de décembre 2025** pour continuer à apprendre, progresser et contribuer à des projets concrets et stimulants.
+Je suis actuellement en formation de développeur au **Campus Numérique d’Annecy**, et je recherche une **alternance de 12 mois à partir de janvier 2026** pour continuer à apprendre, progresser et contribuer à des projets concrets et stimulants.
 
 ---
 
