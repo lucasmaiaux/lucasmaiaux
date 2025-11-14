@@ -24,10 +24,8 @@ Je suis actuellement en formation de développeur au **Campus Numérique d’Ann
 
 ---
 
-### 📌 Quelques projets
-- **CampusCrawler** – application React/JavaSpring/MySQL dockerisée host sur un VPS  
-- **Jeu de l’oie** – version web d’un projet Processing converti en p5.js  
-
+### 📌 Projets
+- [**CampusCrawler**](https://github.com/lucasmaiaux/campus-crawler) – application React/JavaSpring/MySQL dockerisée host sur un VPS  
 ---
 
 ### 📫 Me contacter
